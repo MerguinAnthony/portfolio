@@ -32,7 +32,7 @@ h1 {
   vertical-align: middle;
 }
 
-#logo {
+.logo {
   position: absolute;
   top: 2vh;
   left: 50vw;
