@@ -14,5 +14,5 @@ $admin_info = array(
   'status' => 'En recherche d\'emploi',
   'dev' => 'site en cours de développement',
   'description' => 'Je suis un développeur Web Full-Stack en formation, déterminé à explorer le vaste monde du développement web et à apprendre constamment pour m\'améliorer.
-                Passionné par les possibilités offertes par la technologie et sa capacité à transformer la façon dont nous interagissons avec le monde.',
+                    Passionné par les possibilités offertes par la technologie et sa capacité à transformer la façon dont nous interagissons avec le monde.',
 );
