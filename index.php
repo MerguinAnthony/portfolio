@@ -11,8 +11,8 @@
     <title><?= $admin_info['fullname'] ?> | <?=$admin_info['job'] ?></title>
   </head>
   <body>
-    <img class="logo" src="assets/img/aml.png" alt="logo">
     <div id="table">
+      <img class="logo" src="assets/img/aml.png" alt="logo">
       <div id="centeralign">
         <h1><?= $admin_info['fullname'] ?> | <?=$admin_info['job'] ?></h1>
         <p id="description"><?=$admin_info['description']?></p>
