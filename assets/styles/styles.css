@@ -31,3 +31,15 @@ h1 {
   display: table-cell;
   vertical-align: middle;
 }
+
+#logo {
+  position: absolute;
+  top: 2vh;
+  left: 50vw;
+  transform: translateX(-50%);
+  margin: 0 auto;
+  width: 15vw;
+  min-width: 150px;
+  display: block;
+  border-radius: 50%;
+}
