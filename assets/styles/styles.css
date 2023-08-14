@@ -38,8 +38,8 @@ h1 {
   left: 50vw;
   transform: translateX(-50%);
   margin: 0 auto;
-  width: 15vw;
   min-width: 150px;
   display: block;
   border-radius: 50%;
+  background: none;
 }
