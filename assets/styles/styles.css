@@ -9,7 +9,7 @@ h1 {
   text-transform: uppercase;
   letter-spacing: 1pt;
   font-size: 30pt;
-  margin-bottom: 15px;
+  margin: 20vh 0;
 }
 
 #description {
@@ -38,6 +38,4 @@ h1 {
   transform: translateX(-50%);
   min-width: 150px;
   display: block;
-  border-radius: 50%;
-  margin-bottom: 10vh;
 }
